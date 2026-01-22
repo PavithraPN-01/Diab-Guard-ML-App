@@ -1,0 +1,10 @@
+# Ignore serialized models and scalers
+diabetes_model.pkl
+scaler.pkl
+
+# Or ignore all pickle files
+*.pkl
+
+# Ignore common python artifacts
+__pycache__/
+*.py[cod]
